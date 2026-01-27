@@ -14,3 +14,8 @@ This project helped me:
 - Understand areas where I need to focus more
 - Gain confidence in building UI from scratch
 - Appreciate the importance of combining guidance with independent effort
+
+💻 Languages: HTML + CSS 
+🌐 Hosted via: GitHub Pages
+
+🔗 Live Website: https://kritisethi2006.github.io/Spotify-UI-Clone/
