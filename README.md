@@ -21,6 +21,6 @@ It is a mini-project created as part of my web development learning journey, ins
 
 🌐 **Hosted via GitHub Pages**
 
-🔗 **Live Website:** https://kritisethi2006.github.io/Spotify-UI-Clone/
+🔗 **Live Website:** https://kritisethi2006.github.io/Spotify-UI-Clone-Website/
 
 🌐 **LinkedIn Post:** https://www.linkedin.com/posts/kritisethi2006_webdevelopment-htmlcss-spotifyclone-activity-7422023010049646592-efsP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
