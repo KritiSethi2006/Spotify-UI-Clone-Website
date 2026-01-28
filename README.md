@@ -19,7 +19,7 @@ It is a mini-project created as part of my web development learning journey, ins
 • **CSS** – Enhances visual presentation, manages layout responsiveness, and applies design aesthetics.
 ##
 
-🌐 **Hosted via: GitHub Pages**
+🌐 **Hosted via GitHub Pages**
 
 🔗 **Live Website:** https://kritisethi2006.github.io/Spotify-UI-Clone/
 
