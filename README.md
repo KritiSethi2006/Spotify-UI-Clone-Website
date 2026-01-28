@@ -1,6 +1,6 @@
 # 🎵 Spotify-UI-Clone
-This repository contains a front page UI clone of Spotify’s website**, built entirely with HTML and CSS.  
-It is a mini-project created as part of my learning journey in web development, inspired by a video shared by my college. With their guidance, I built part of the structure, and independently developed the rest — without using any AI tools.
+This repository contains a front-page UI clone of Spotify’s website, built entirely in HTML and CSS.  
+It is a mini-project created as part of my web development learning journey, inspired by a video shared by my college. With their guidance, I built part of the structure, and independently developed the rest — without using any AI tools.
 
 ## ⚙️ Features
 - 🎨 **UI Design:** Clean and structured layout inspired by Spotify’s official site
@@ -19,3 +19,4 @@ This project helped me:
 🌐 Hosted via: GitHub Pages
 
 🔗 Live Website: https://kritisethi2006.github.io/Spotify-UI-Clone/
+🔗 LinkedIn Post: https://www.linkedin.com/posts/kritisethi2006_webdevelopment-htmlcss-spotifyclone-activity-7422023010049646592-efsP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
